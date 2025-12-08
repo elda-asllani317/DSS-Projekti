@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\aaaa\\DSS-Projekti\\ubt\\ubt.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\projekti\\DSS-Projekti\\Backend\\ubt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\aaaa\\DSS-Projekti\\ubt\\ubt.csproj": {
+    "C:\\Users\\Admin\\Desktop\\projekti\\DSS-Projekti\\Backend\\ubt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\aaaa\\DSS-Projekti\\ubt\\ubt.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\projekti\\DSS-Projekti\\Backend\\ubt.csproj",
         "projectName": "ubt",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\aaaa\\DSS-Projekti\\ubt\\ubt.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\projekti\\DSS-Projekti\\Backend\\ubt.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\aaaa\\DSS-Projekti\\ubt\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\projekti\\DSS-Projekti\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
